@@ -1,0 +1,21 @@
+.imgLogo {
+  width: 145px;
+  height: 92px;
+}
+
+.navbar {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.titleHome {
+  color: #c48988;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.titleLogIn {
+  color: #c48988;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
